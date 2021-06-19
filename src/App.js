@@ -1,10 +1,9 @@
 import './App.css';
-import FormPage from './component/Form';
+import FormPage from './Form';
 
 function App() {
   return (
     <div className="App">
-     
       <FormPage />
     </div>
   );
